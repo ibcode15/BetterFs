@@ -1,9 +1,12 @@
 # BetterFs
-A fs search engine
+A file system search engine.
 ## TODO list:
-* [ ] Add CLI
-* [ ] add Tests
-* [ ] add Multithreading
+* [ ] Create API to Save/Load the index to/from JSON and TOML.
+* [ ] Create CLI.
+* [ ] Create Tests.
+* [ ] Add Multithreading.
+* [ ] Cache information.
+* [ ] Create GUI
 
 
-Note: This is my first time writting Go code.
+Note: This is my first time writing Go code.
